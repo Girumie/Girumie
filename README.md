@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi there 👋 Welcome to My GitHub Profile!
+🧑‍🎓 About Me
+I’m currently pursuing a degree in Information Science at the University of Gondar. Passionate about technology and eager to explore the endless possibilities of data-driven innovation.
 
-<!--
-**Girumie/Girumie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 What I'm Learning
+Currently diving deep into:
 
-Here are some ideas to get you started:
+Data Science & Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Data Structures & Algorithms
+
+Oracle DBMS & Networking
+
+Entrepreneurship & Collection Development & Management
+
+🤝 Let's Collaborate
+I'm open to exciting collaborations in tech, research, or open-source projects. If you have an interesting project, let's connect and create something amazing!
+
+💡 Looking for Help
+Seeking guidance on the GitHub Student Developer Pack—if you have insights, I’d love to hear them.
+
+📩 Get in Touch
+Feel free to reach out:
+
+📧 Email: girumshewan26@gmail.com
+
+📱 Telegram: @faithfactory
